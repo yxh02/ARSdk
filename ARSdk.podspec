@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/yexihong/ARSdk'
+  s.homepage         = 'https://github.com/yxh02/ARSdk.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yexihong' => '297893742@qq.com' }
@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'class/*'
-  
+  swift_versions = 5.0
   # s.resource_bundles = {
   #   'ARSdk' => ['ARSdk/Assets/*.png']
   # }
