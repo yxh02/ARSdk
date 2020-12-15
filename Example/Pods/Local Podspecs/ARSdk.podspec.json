@@ -1,0 +1,22 @@
+{
+  "name": "ARSdk",
+  "version": "0.1.0",
+  "summary": "A short description of ARSdk.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yexihong/ARSdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yexihong": "297893742@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yexihong/ARSdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ARSdk/Classes/**/*"
+}

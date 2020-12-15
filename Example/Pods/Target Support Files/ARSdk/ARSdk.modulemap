@@ -1,0 +1,6 @@
+framework module ARSdk {
+  umbrella header "ARSdk-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ARSdk (0.1.0)
+
+DEPENDENCIES:
+  - ARSdk (from `../`)
+
+EXTERNAL SOURCES:
+  ARSdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ARSdk: ffa2967025c2de669035e71f136ab5ae7cb75ccc
+
+PODFILE CHECKSUM: e44abf076e7eab8cbeade0bcb5bf9fa9fa1c2d56
+
+COCOAPODS: 1.9.0
